@@ -1,0 +1,13 @@
+{
+  "itemGroup.precisioncraft": "Example Mod Tab",
+  "block.precisioncraft.example_block": "Example Block",
+  "item.precisioncraft.example_item": "Example Item",
+
+  "precisioncraft.configuration.title": "PrecisionCraft Configs",
+  "precisioncraft.configuration.section.precisioncraft.common.toml": "PrecisionCraft Configs",
+  "precisioncraft.configuration.section.precisioncraft.common.toml.title": "PrecisionCraft Configs",
+  "precisioncraft.configuration.items": "Item List",
+  "precisioncraft.configuration.logDirtBlock": "Log Dirt Block",
+  "precisioncraft.configuration.magicNumberIntroduction": "Magic Number Text",
+  "precisioncraft.configuration.magicNumber": "Magic Number"
+}
